@@ -1,3 +1,3 @@
 # Keypairs-and-Airdrops
 
-Keypairs and Airdrops Demo
+Solana Airdrop that accepts public address from CLI
